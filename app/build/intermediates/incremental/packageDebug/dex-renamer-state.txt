@@ -1,0 +1,7 @@
+#Sat Oct 22 15:57:23 PDT 2016
+base.0=/Users/samxzy0207/Desktop/CSE110/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9571ed79be9b307859260755aaba97773534d8d4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/samxzy0207/Desktop/CSE110/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3d224530bd9ed68c77b2b5e0ac5a6daefbfc412c/classes.dex
+base.1=/Users/samxzy0207/Desktop/CSE110/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3d224530bd9ed68c77b2b5e0ac5a6daefbfc412c
+file.0=/Users/samxzy0207/Desktop/CSE110/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9571ed79be9b307859260755aaba97773534d8d4/classes.dex
